@@ -1,4 +1,4 @@
-
+// It turns out that even for mathematicians, calculating the number of small circles that fit inside a larger circle is not so straightforward! Wow.
 let pie = 3.1415
 let radius = 5 // meters
 let areaDesig = pie * radius * radius
